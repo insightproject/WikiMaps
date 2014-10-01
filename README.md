@@ -6,7 +6,7 @@ I built a data pipeline to easily access and query Wikipedia article traffic dat
 
 ![alt tag](images/Data_Pipeline.png "Data Pipeline")
 
-I use well-known MapReduce frameworks (Pig/Hive) to clean and process raw Wikipedia traffic data (~2.5TB). I use NoSQL tables (HBase) to enable efficient querying of the processed data. I add a real-time pipeline (Kafka/Storm) to handle incoming Wikipedia traffic data streams.
+I use well-known MapReduce frameworks (Pig/Hive) to clean and process raw Wikipedia traffic data (~2.5TB). I use NoSQL tables (HBase) to enable efficient querying of the processed Wikipedia data. I add a real-time pipeline (Kafka/Storm) to handle incoming Wikipedia traffic data streams.
 
 
 
