@@ -20,7 +20,7 @@ Note that the API updates every second to ensure utmost currentness of data, all
 
 ![alt tag](images/API2.png "API2")
 
-To learn more about my INSIGHT Data Engineering project, click on the video below to watch a screencast I compiled about the various elements of my data pipeline (includes a demo of the API).
+To learn more about my INSIGHT project, click on the video below to watch a screencast I compiled about the various elements used in my data pipeline (includes a demo of the API).
 
 [![Screenshot](images/API2.png)](X80t2fyiDU8)
 
