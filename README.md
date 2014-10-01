@@ -14,9 +14,9 @@ An examplary API call for the topic "Barack Obama", using monthly granularity an
 
 ![alt tag](images/API.png "API")
 
-To showcase the real-time features of the data pipeline, I created a second API using the inbounding Wikipedia traffic data stream as a source. This second API monitors the article traffic statistics of potential U.S. Presidential Candidates for the 2016 election season. The API tracks which candidates currently generate the most interest on Wikipedia -- this might provide a useful metric for the impact of electoral campaigns, or for gauging a candidate's overall visibility. 
+To showcase the real-time features of the data pipeline, I created a second API using the inbounding Wikipedia traffic data stream as a source. This second API monitors the article traffic statistics of potential U.S. Presidential Candidates for the 2016 election season. The API tracks which candidates currently generate the most interest on Wikipedia - a useful metric for the impact of electoral campaigns, or for gauging a candidate's overall visibility. 
 
-Note that the API updates every second to ensure utmost currentness of data, allowing to assess the impact of election events as they happen (such as the launch of big campaign ads, or the unfolding of scandals involving presidential candidates). 
+Note that the API updates every second to ensure currentness of data, allowing us to assess the impact of election events as they happen (such as the launch of big campaign ads, or the unfolding of scandals involving presidential candidates). 
 
 ![alt tag](images/API2.png "API2")
 
