@@ -22,7 +22,7 @@ Note that the API updates every second to ensure utmost currentness of data, all
 
 To learn more about my INSIGHT project, click on the video below to watch a screencast I compiled about the various elements used in my data pipeline (includes a demo of the API).
 
-[![Screenshot](images/API2.png)](X80t2fyiDU8)
+[![Screenshot](images/API2.png)](http://youtu.be/X80t2fyiDU8)
 
 
 
