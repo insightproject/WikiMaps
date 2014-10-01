@@ -14,6 +14,11 @@ An examplary API call for the topic "Barack Obama", using monthly granularity an
 
 ![alt tag](images/API.png "API")
 
+To showcase the real-time features of the data pipeline, a seperate API monitoring the article traffic statistics of potential U.S. Presidential Candidates for 2016 has been created. The API tracks which candidates currently generate the most interest on Wikipedia, providing a useful metric for campaign success.
+
+![alt tag](images/API2.png "API2")
+
+
 
 
 
