@@ -8,7 +8,13 @@ My data pipeline follows Lambda-architecture design principles, allowing for hig
 
 ![alt tag](images/Data_Pipeline.png "Data Pipeline")
 
-I use MapReduce frameworks (Pig/Hive) to clean and process raw Wikipedia traffic data. I use NoSQL data storage (HBase) to enable efficient querying of aggregated Wikipedia data. I add real-time components (Kafka/Storm) to handle incoming Wikipedia traffic data streams.
+I use MapReduce frameworks (Pig/Hive) to clean and process raw Wikipedia traffic data. I use NoSQL tools (HBase) to enable efficient querying of aggregated Wikipedia data. I add real-time components (Kafka/Storm) to handle incoming Wikipedia traffic data streams, ensuring high data availability.
+
+
+
+
+
+
 
 
 
