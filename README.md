@@ -2,7 +2,7 @@
 TRENDING TOPIC AROUND THE WORLD
 
 
-I built a data pipeline to easily access and query Wikipedia article traffic data for all available Wikipedia-languages. My data pipeline is based on Lambda-architecture design principles, allowing for high data availability and eventual consistency even in the presence of partitions: 
+I built a data pipeline to easily access and query Wikipedia article traffic data across all available Wikipedia-languages. My data pipeline is based on Lambda-architecture design principles, allowing for high data availability and eventual consistency even in the presence of partitions: 
 
 ![alt tag](images/Data_Pipeline.png "Data Pipeline")
 
