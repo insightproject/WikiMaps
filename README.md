@@ -12,6 +12,10 @@ I use MapReduce frameworks (Pig, Hive) to clean and process raw Wikipedia traffi
 
 An examplary API call for the topic "Barack Obama", using monthly granularity and restricting to 8 popular Wikipedia languages, is provided below.
 
+![alt tag](images/API.png "API")
+
+
+
 
 
 
