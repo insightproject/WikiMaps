@@ -10,7 +10,7 @@ My data pipeline adopts Lambda-architecture design principles, allowing for high
 
 I use conventional MapReduce frameworks (Pig, Hive) to clean and process raw Wikipedia traffic data. I use NoSQL databases (HBase) to efficently serve processed Wikipedia data. I add real-time components (Kafka/Storm) to handle incoming Wikipedia traffic streams, ensuring that the API is always current. 
 
-My API allows the user to query the article traffic statistics of any Wikipedia topic, across all languages. In the example provided below, the aggregation format has been set to monthly.
+
 
 
 
